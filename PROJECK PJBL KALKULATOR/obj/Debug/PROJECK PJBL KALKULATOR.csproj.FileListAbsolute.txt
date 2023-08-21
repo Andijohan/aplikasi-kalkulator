@@ -1,0 +1,11 @@
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\bin\Debug\PROJECK PJBL KALKULATOR.exe.config
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\bin\Debug\PROJECK PJBL KALKULATOR.exe
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\bin\Debug\PROJECK PJBL KALKULATOR.pdb
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.csproj.AssemblyReference.cache
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK_PJBL_KALKULATOR.Form1.resources
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK_PJBL_KALKULATOR.Properties.Resources.resources
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.csproj.GenerateResource.cache
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.exe
+C:\Users\Andi Johan Saputra\source\repos\PROJECK PJBL KALKULATOR\PROJECK PJBL KALKULATOR\obj\Debug\PROJECK PJBL KALKULATOR.pdb
